@@ -7,7 +7,7 @@ This project focuses on analyzing and predicting sales data using machine learni
 - **EDA.ipynb:** Notebook for exploratory data analysis.
 - **Model.ipynb:** Notebook for training and evaluating machine learning models.
 - **preprocess.py:** Script for data preprocessing.
-- **MarketSales.xlsx:** Dataset containing sales data.
+- **MarketSales.xlsx:** Dataset containing sales data. [Download from Kaggle](https://www.kaggle.com/datasets/sezginildes/marketsales)
 
 ## How to Use
 1. Clone the repository.
